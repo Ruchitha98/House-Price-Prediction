@@ -122,7 +122,7 @@ House-Price-Prediction/
 
 ## Author
 
-**Ruchitha Sampath**
+**Ruchitha Sampath Weerasekara**
 
 🎓 MSc Data Science, University of East Anglia
 
